@@ -1,0 +1,52 @@
+body{
+    font:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.navbar {
+    background-color: #8d1d15;
+}
+
+.quem-somos {
+    background-color: #000000;
+    color: white;
+}
+
+.quem-somos:hover{
+    background-color: #0e0e0e;
+}
+
+.padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros:hover{
+    background-color: #0e0e0e;
+}
+
+.margin {
+    margin: 40px 0;
+}
+
+.parceiros{
+    background-color: black;
+    color: white;
+}
+
+.section-image:hover{
+    border: white 4px solid;
+}
+
+.background-hover:hover{
+    background-color: rgb(151,151,151);
+    color:black;
+    border-radius: 25px;
+}
+
+footer{
+    background-color: #8d1d15;
+    color: white;
+}
